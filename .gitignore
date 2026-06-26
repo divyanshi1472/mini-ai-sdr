@@ -1,0 +1,27 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Build
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
